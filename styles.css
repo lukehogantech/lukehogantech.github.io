@@ -540,7 +540,7 @@ select.form-control {
 }
 
 /* END PERPLEXITY DESIGN SYSTEM */
-```css
+/*```css*/
 /* Portfolio Stylesheet - Adapted to Perplexity Design System */
 
 * {
@@ -1200,4 +1200,3 @@ footer {
         font-size: var(--font-size-sm);
     }
 }
-```
